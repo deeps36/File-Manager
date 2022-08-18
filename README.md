@@ -13,4 +13,5 @@ Features:
  7. Backup files and IP blacklist and whitelist
  8. Google/Microsoft doc viewer helps you preview PDF/DOC/XLS/PPT/etc. 25 MB can be previewed with the Google Drive viewer
  9. Search - Search and filter files using datatable js
- 10. lots more...
+ 10. Music and video player with embedded url's 
+ 11.lots more...
